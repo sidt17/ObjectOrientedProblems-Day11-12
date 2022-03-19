@@ -16,21 +16,21 @@ namespace InventoryDataManagementDemo
     public class TypesOfRice
     {
         public string Name { get; set; }
-        public string  weight { get; set; }
-        public string Price { get; set; }
+        public int  weight { get; set; }
+        public int Price { get; set; }
 
     }
     public class TypesOfGrains
     {
         public string Name { get; set; }
-        public string weight { get; set; }
-        public string Price { get; set; }
+        public int weight { get; set; }
+        public int Price { get; set; }
     }
     public class TypesOfwheats
     {
         public string Name { get; set; }
-        public string weight { get; set; }
-        public string Price { get; set; }
+        public int weight { get; set; }
+        public int Price { get; set; }
 
     }
 }
