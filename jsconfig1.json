@@ -4,35 +4,35 @@
       "Name": "Basumati",
       
       
-      "Weight": "2kg",
+      "Weight": "2",
       "Price": 340
     },
     {
       "Name": "Bullet",
-      "Weight": "6kg",
+      "Weight": "6",
       "Price": 300
     },
     {
       "Name": "Brown Rice",
-      "Weight": "5kg",
+      "Weight": "5",
       "Price": 220
     }
   ],
   "typesOfGrains": [
     {
       "Name": "hoursegram",
-      "Weight": "4kg",
+      "Weight": "4",
       "Price": 340
     },
     {
       "Name": "moongdal",
-      "Weight": "6kg",
+      "Weight": "6",
       "Price": 340
 
     },
     {
       "Name": "Millet",
-      "Weight": "8kg",
+      "Weight": "8",
       "Price": 380
 
     }
@@ -41,18 +41,18 @@
   "typesOfwheats": [
     {
       "Name": "Wheat1",
-      "Weight": "3kg",
+      "Weight": "3",
       "Price": 340
     },
     {
       "Name": "Wheat2",
-      "Weight": "6kg",
+      "Weight": "6",
       "Price": 340
 
     },
     {
       "Name": "Wheat3",
-      "Weight": "4kg",
+      "Weight": "4",
       "Price": 380
 
     }
